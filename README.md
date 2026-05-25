@@ -174,46 +174,7 @@ La pantalla de detalle muestra información ampliada del producto, incluyendo:
 
 ---
 
-## Capturas sugeridas
 
-Para documentar mejor el funcionamiento del proyecto, se recomienda agregar las siguientes capturas en el informe o repositorio:
-
-```text
-/docs/screenshots/home.png
-Pantalla principal con lista de productos, buscador y categorías.
-```
-
-```text
-/docs/screenshots/search.png
-Búsqueda dinámica filtrando productos por nombre o descripción.
-```
-
-```text
-/docs/screenshots/category_filter.png
-Filtro por categoría usando CategoryCard.
-```
-
-```text
-/docs/screenshots/theme_red.png
-Aplicación usando el cuarto tema libre: Red.
-```
-
-```text
-/docs/screenshots/detail.png
-Pantalla de detalle con descripción, especificaciones y botón de carrito.
-```
-
-```text
-/docs/screenshots/favorites.png
-Pantalla de favoritos con productos guardados.
-```
-
-```text
-/docs/screenshots/cart.png
-Carrito con cantidades, total y opción de confirmar compra.
-```
-
----
 
 ## Requisitos para ejecutar el proyecto
 
