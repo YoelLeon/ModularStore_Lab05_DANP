@@ -263,7 +263,7 @@ Algunas mejoras que podrían agregarse en versiones posteriores son:
 
 ## Autor
 
-**Jeremy Joshua Perez Huamani**  
+**Joel Isaias Condori Leon**  
 Universidad Nacional de San Agustín de Arequipa  
 Escuela Profesional de Ingeniería de Sistemas  
 Curso: Desarrollo Avanzado en Nuevas Plataformas
